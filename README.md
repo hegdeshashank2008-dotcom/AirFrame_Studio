@@ -1,6 +1,6 @@
 # AirFrame Studio
 # Author: Shashank Hegde
-# Institute: Moodlakatte Institute Of Technology
+# Institute: Moodlakatte Institute Of Technology,Kundapuara,India
 
 Make a picture frame in the air with your hands, snap a photo of whatever is inside it, turn it into art, then **draw on it with your finger**.
 
